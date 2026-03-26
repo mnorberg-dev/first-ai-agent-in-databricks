@@ -83,7 +83,7 @@
 # MAGIC
 # MAGIC # TODO: Change this to the name of the Databricks model serving endpoint you want to use.
 # MAGIC # You can find available foundation model endpoints in your Databricks workspace under
-# MAGIC # Serving > Endpoints, or use any custom endpoint you have deployed.
+# MAGIC # the AI Gateway section.
 # MAGIC BASE_ENDPOINT = "databricks-llama-4-maverick"
 # MAGIC
 # MAGIC # TODO: Change this prefix to something unique to you (e.g. your name or team name).
